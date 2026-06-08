@@ -36,13 +36,13 @@ Crie um arquivo `.env` na raiz do projeto:
 ```env
 PORT=3000
 
-DB_HOST=localhost
-DB_PORT=3306
-DB_NAME=restaurante
-DB_USER=root
-DB_PASSWORD=sua_senha
+DB_HOST=
+DB_PORT=
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
 
-JWT_SECRET=chave_super_secreta
+JWT_SECRET=
 ```
 
 ---
